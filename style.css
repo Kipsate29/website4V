@@ -8,6 +8,7 @@ padding: 10%;
 }
 
 h1 {
+  text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.2em;
   background-color: #3ff4de;
@@ -16,9 +17,15 @@ h1 {
 }
 
 h2 {
+  text-align: center;
 color: #ff72a6;
 }
 
 p {
+  text-align: center;
 color: #000000 
+}
+
+img {
+text-align: center;
 }
